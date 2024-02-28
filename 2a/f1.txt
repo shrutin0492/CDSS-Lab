@@ -1,0 +1,9 @@
+/*write a C program 
+to print 
+'Hello World'*/
+void main()//main function
+{
+printf("Hello World"); //printing 'Hello world'
+}
+/*This is 
+program 2a*/
