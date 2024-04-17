@@ -1,5 +1,3 @@
-/*2a. Programs to count the numbers of comments lines in a given C program. Also 
-eliminate them and copy the resulting program into separate file.*/
 %{
 #include<stdio.h>
 int s=0,m=0;
