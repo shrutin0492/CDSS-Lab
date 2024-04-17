@@ -1,4 +1,3 @@
-//2b. Program to recognize whether a given sentence is simple or compound.
 %{
 #include<stdio.h>
 int c=0;
