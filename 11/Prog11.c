@@ -40,7 +40,7 @@ int main() {
     long factForLoop = factorialForLoop(number);
     end_time = clock();
     execution_time = (double)(end_time - start_time) / CLOCKS_PER_SEC;
-    printf("\nProcess Returned: 0, Execution time for for loop: %.6f s\n", execution_time);
+    printf("\nProcess Returned: 0x0, Execution time for for loop: %.6f s\n", execution_time);
     printf("Factorial using for loop: %ld\n", factForLoop);
 
     // Using recursion
@@ -48,7 +48,7 @@ int main() {
     long factRecursion = factorialRecursion(number);
     end_time = clock();
     execution_time = (double)(end_time - start_time) / CLOCKS_PER_SEC;
-    printf("\nProcess Returned: 0, Execution time for recursion: %.6f s\n", execution_time);
+    printf("\nProcess Returned: 0x0, Execution time for recursion: %.6f s\n", execution_time);
     printf("Factorial using recursion: %ld\n", factRecursion);
 
     // Using do-while loop
@@ -56,7 +56,7 @@ int main() {
     long factDoWhile = factorialDoWhile(number);
     end_time = clock();
     execution_time = (double)(end_time - start_time) / CLOCKS_PER_SEC;
-    printf("\nProcess Returned: 0, Execution time for do-while loop: %.6f s\n", execution_time);
+    printf("\nProcess Returned: 0x0, Execution time for do-while loop: %.6f s\n", execution_time);
     printf("Factorial using do-while loop: %ld\n", factDoWhile);
 
     return 0;
