@@ -27,11 +27,11 @@ number of letters/digits. (lex, yacc)](5)
 12. [(8) Program to implement Absolute Loader. (C)](8)
 
 13. [(9) Program to implement FIRST in context free grammar. (C)](9)
-14. [(10) Program to implement Shift Reduce Parser for the given grammar:
-                                                                                                                                                                                                           E → E+E                 
+14. [(10) Program to implement Shift Reduce Parser for the given grammar:                                                                                                                              
+E → E+E                 
 E → E*E                                                                                              
                                                                                              E →(E)  
                                                                                             E→ id     
    (C)](10)
 
-15. [(11) Program to implement code optimization techniques. (C)](11)
+16. [(11) Program to implement code optimization techniques. (C)](11)
