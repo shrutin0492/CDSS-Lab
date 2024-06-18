@@ -30,8 +30,8 @@ number of letters/digits. (lex, yacc)](5)
 14. [(10) Program to implement Shift Reduce Parser for the given grammar:                                                                                                                              
 E → E+E                 
 E → E*E                                                                                              
-                                                                                             E →(E)  
-                                                                                            E→ id     
+                                                                                             E → (E)  
+                                                                                            E → id     
    (C)](10)
 
 16. [(11) Program to implement code optimization techniques. (C)](11)
