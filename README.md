@@ -1,7 +1,7 @@
 # Compiler Design and System Software Lab
 Programs as part of the Compiler Design and System Software Laboratory course in the 3rd year of my undergrad.
 
-1. (1a) Program to count the number, words, spaces and lines in a given input file.
+1. (1a) Program to count the number, words, spaces and lines in a given input file. [1a](1a)
 
 2. (1b) Program to recognize and count the number of identifiers.
 
