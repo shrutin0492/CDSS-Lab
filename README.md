@@ -28,7 +28,7 @@ number of letters/digits. (lex, yacc)](5)
 
 13. [(9) Program to implement FIRST in context free grammar. (C)](9)
 14. [(10) Program to implement Shift Reduce Parser for the given grammar:
- E → E+E                 
+                         E → E+E                 
 E → E*E                                                                                              
                                                                                              E →(E)  
                                                                                             E→ id     
