@@ -11,7 +11,9 @@ eliminate them and copy the resulting program into separate file. [2a](2a)
 4. (2b) Program to recognize whether a given sentence is simple or compound. [2b](2b)
 
 5. (3a) Program to count number of:
+
 i.+ve and -ve integers
+
 ii. +ve and -ve fractions
 [3a](3a) 
 
@@ -32,9 +34,13 @@ number of letter or digits. [5](5)
 13. (9) C program to implement the FIRST in context free grammar. [9](9)
 
 14. (10) C program to implement Shift Reduce Parser for the given grammar:
+
 E → E+E
+
 E → E*E
+
 E →(E)
+
 E→ id
 [10](10)
 
