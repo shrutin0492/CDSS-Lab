@@ -28,6 +28,8 @@ number of letter or digits.](5)
 
 13. [(9) C program to implement the FIRST in context free grammar.](9)
 
-14. [(10) C program to implement Shift Reduce Parser for the given grammar: E → E+E, E → E*E, E →(E), E→ id](10)
+14. [(10) C program to implement Shift Reduce Parser for the given grammar:                          
+ E → E+E,                 
+E → E*E,                                                                                             E →(E),                                                                                             E→ id](10)
 
 15. [(11) C program to implement code optimization techniques.](11)
